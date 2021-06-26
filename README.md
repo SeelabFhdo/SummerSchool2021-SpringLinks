@@ -32,6 +32,11 @@
   - Securing a Web Application: https://spring.io/guides/gs/securing-web/
   - Reference Documentation: https://docs.spring.io/spring-security/site/docs/current/reference/html5/
 
+## Basic UI - Thymeleaf
+  - Basic Tutorial: https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html
+  - Thymeleaf + Spring Tutorial: https://www.thymeleaf.org/doc/tutorials/3.0/thymeleafspring.html
+  - Reference Documentation: https://www.thymeleaf.org/documentation.html
+
 ## Further Resources
   - Project Bootstrap - Spring Initializr: https://start.spring.io
   - Complete Collection of Spring Guides: https://spring.io/guides
